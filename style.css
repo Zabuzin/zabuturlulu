@@ -1,0 +1,39 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+h1{
+    text-align: center;
+    text-transform: uppercase; /* Sert a mettre la majuscule */
+font-family: 'Press Start 2P', cursive;
+}
+a{
+    color: black  /*couleur noir du texte   */
+   /* font-weight: bold;   epaisseur  */
+}
+ em{
+    color: #168314;
+}  
+#toto{
+    background-color: black;
+}
+body{background: url(images/BG.jpg) no-repeat;
+     background-size: 1920PX 1080px;}
+h1{background-color: black;
+    color: antiquewhite;
+    border-radius: 10px;}
+h2{
+    background: linear-gradient(blue,white);
+    border-radius: 10px;
+}    
+p{
+    color: azure;
+    font-size: x-large;
+    box-shadow: blueviolet;
+
+}
+ol{
+   color: azure ;
+   font-size: x-large;
+   box-shadow: blueviolet;
+}
+ol, p {
+    background: rgba(255, 255, 255, 0.5);
+}
